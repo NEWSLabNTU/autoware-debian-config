@@ -1,0 +1,34 @@
+ros-humble-autoware-vehicle-info-utils (1.2.0-0jammy) jammy; urgency=high
+
+  * chore: bump up version to 1.1.0 (#462 <https://github.com/autowarefoundation/autoware_core/issues/462>) (#464 <https://github.com/autowarefoundation/autoware_core/issues/464>)
+  * refactor(autoware_vehicle_info_utils): rewrite using modern C++ without API breakage (#343 <https://github.com/autowarefoundation/autoware_core/issues/343>)
+  * Contributors: Yutaka Kondo
+
+ -- Taiki Tanaka <taiki.tanaka@tier4.jp>  Sun, 08 Jun 2025 16:00:00 -0000
+
+ros-humble-autoware-vehicle-info-utils (1.1.0-0jammy) jammy; urgency=high
+
+  * refactor(autoware_vehicle_info_utils): rewrite using modern C++ without API breakage (#343 <https://github.com/autowarefoundation/autoware_core/issues/343>)
+  * Contributors: Yutaka Kondo
+
+ -- Taiki Tanaka <taiki.tanaka@tier4.jp>  Wed, 30 Apr 2025 16:00:00 -0000
+
+ros-humble-autoware-vehicle-info-utils (1.0.0-0jammy) jammy; urgency=high
+
+  * fix(autoware_vehicle_info_utils): test not linking to ament_index_cpp (#317 <https://github.com/autowarefoundation/autoware_core/issues/317>)
+  * test(autoware_vehicle_info_utils): add tests for missed lines (#271 <https://github.com/autowarefoundation/autoware_core/issues/271>)
+    Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+  * Contributors: NorahXiong, Shane Loretz
+
+ -- Taiki Tanaka <taiki.tanaka@tier4.jp>  Sun, 30 Mar 2025 16:00:00 -0000
+
+ros-humble-autoware-vehicle-info-utils (0.3.0-0jammy) jammy; urgency=high
+
+  * chore: fix versions in package.xml
+  * feat(autoware_vehicle_info_utils): porting from universe to core (#183 <https://github.com/autowarefoundation/autoware.core/issues/183>)
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+  * Contributors: NorahXiong, mitsudome-r
+
+ -- Taiki Tanaka <taiki.tanaka@tier4.jp>  Thu, 20 Mar 2025 16:00:00 -0000
+
+

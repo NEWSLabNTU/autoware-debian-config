@@ -1,0 +1,30 @@
+ros-humble-autoware-behavior-velocity-planner (1.2.0-0jammy) jammy; urgency=high
+
+  * fix(autoware_behavior_velocity_planner): fix deprecated autoware_utils header (#442 <https://github.com/autowarefoundation/autoware_core/issues/442>)
+  * feat(behavior_velocity_planner)!: remove unused function extendLine (#457 <https://github.com/autowarefoundation/autoware_core/issues/457>)
+    * remove unused function
+    * remove unused parameter
+    ---------
+  * chore: bump up version to 1.1.0 (#462 <https://github.com/autowarefoundation/autoware_core/issues/462>) (#464 <https://github.com/autowarefoundation/autoware_core/issues/464>)
+  * feat(behavior_velocity_planner)!: only wait for the required subscriptions (#433 <https://github.com/autowarefoundation/autoware_core/issues/433>)
+  * Contributors: Masaki Baba, Mitsuhiro Sakamoto, Takayuki Murooka, Yutaka Kondo
+
+ -- Mamoru Sobue <mamoru.sobue@tier4.jp>  Sun, 08 Jun 2025 16:00:00 -0000
+
+ros-humble-autoware-behavior-velocity-planner (1.1.0-0jammy) jammy; urgency=high
+
+
+
+ -- Mamoru Sobue <mamoru.sobue@tier4.jp>  Wed, 30 Apr 2025 16:00:00 -0000
+
+ros-humble-autoware-behavior-velocity-planner (1.0.0-0jammy) jammy; urgency=high
+
+  * chore: update version in package.xml
+  * feat:  port  autoware_behavior_velocity_planner from autoware.universe to autoware.core (#230 <https://github.com/autowarefoundation/autoware_core/issues/230>)
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+    Co-authored-by: 心刚 <mailto:90366790+liuXinGangChina@users.noreply.github.com>
+  * Contributors: Ryohsuke Mitsudome, storrrrrrrrm
+
+ -- Mamoru Sobue <mamoru.sobue@tier4.jp>  Sun, 30 Mar 2025 16:00:00 -0000
+
+

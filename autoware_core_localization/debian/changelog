@@ -1,0 +1,22 @@
+ros-humble-autoware-core-localization (1.2.0-0jammy) jammy; urgency=high
+
+  * chore: bump up version to 1.1.0 (#462 <https://github.com/autowarefoundation/autoware_core/issues/462>) (#464 <https://github.com/autowarefoundation/autoware_core/issues/464>)
+  * Contributors: Yutaka Kondo
+
+ -- Ryohsuke Mitsudome <ryohsuke.mitsudome@tier4.jp>  Sun, 08 Jun 2025 16:00:00 -0000
+
+ros-humble-autoware-core-localization (1.1.0-0jammy) jammy; urgency=high
+
+
+
+ -- Ryohsuke Mitsudome <ryohsuke.mitsudome@tier4.jp>  Wed, 30 Apr 2025 16:00:00 -0000
+
+ros-humble-autoware-core-localization (1.0.0-0jammy) jammy; urgency=high
+
+  * chore: update version in package.xml
+  * feat(autoware_core): add autoware_core package with launch files (#304 <https://github.com/autowarefoundation/autoware_core/issues/304>)
+  * Contributors: Ryohsuke Mitsudome
+
+ -- Ryohsuke Mitsudome <ryohsuke.mitsudome@tier4.jp>  Sun, 30 Mar 2025 16:00:00 -0000
+
+

@@ -1,0 +1,29 @@
+ros-humble-autoware-map-loader (1.2.0-0jammy) jammy; urgency=high
+
+  * chore: bump up version to 1.1.0 (#462 <https://github.com/autowarefoundation/autoware_core/issues/462>) (#464 <https://github.com/autowarefoundation/autoware_core/issues/464>)
+  * feat(component_interface_specs): use template type in get_qos function (#364 <https://github.com/autowarefoundation/autoware_core/issues/364>)
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+  * feat(map_loader): add the explanation of handling use_waypoints (#342 <https://github.com/autowarefoundation/autoware_core/issues/342>)
+  * Contributors: Takagi, Isamu, Takayuki Murooka, Yutaka Kondo
+
+ -- Yamato Ando <yamato.ando@tier4.jp>  Sun, 08 Jun 2025 16:00:00 -0000
+
+ros-humble-autoware-map-loader (1.1.0-0jammy) jammy; urgency=high
+
+  * feat(component_interface_specs): use template type in get_qos function (#364 <https://github.com/autowarefoundation/autoware_core/issues/364>)
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+  * feat(map_loader): add the explanation of handling use_waypoints (#342 <https://github.com/autowarefoundation/autoware_core/issues/342>)
+  * Contributors: Takagi, Isamu, Takayuki Murooka
+
+ -- Yamato Ando <yamato.ando@tier4.jp>  Wed, 30 Apr 2025 16:00:00 -0000
+
+ros-humble-autoware-map-loader (1.0.0-0jammy) jammy; urgency=high
+
+  * chore: update version in package.xml
+  * feat(autoware_map_loader): port autoware_map_loader from Autoware Universe to Core (#326 <https://github.com/autowarefoundation/autoware_core/issues/326>)
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+  * Contributors: Ryohsuke Mitsudome
+
+ -- Yamato Ando <yamato.ando@tier4.jp>  Sun, 30 Mar 2025 16:00:00 -0000
+
+

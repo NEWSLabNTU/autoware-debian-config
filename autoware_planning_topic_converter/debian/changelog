@@ -1,0 +1,24 @@
+ros-humble-autoware-planning-topic-converter (1.2.0-0jammy) jammy; urgency=high
+
+  * fix(autoware_planning_topic_converter): fix deprecated autoware_utils header (#447 <https://github.com/autowarefoundation/autoware_core/issues/447>)
+    fix autoware_utils header
+  * chore: bump up version to 1.1.0 (#462 <https://github.com/autowarefoundation/autoware_core/issues/462>) (#464 <https://github.com/autowarefoundation/autoware_core/issues/464>)
+  * Contributors: Masaki Baba, Yutaka Kondo
+
+ -- Satoshi OTA <satoshi.ota@tier4.jp>  Sun, 08 Jun 2025 16:00:00 -0000
+
+ros-humble-autoware-planning-topic-converter (1.1.0-0jammy) jammy; urgency=high
+
+
+
+ -- Satoshi OTA <satoshi.ota@tier4.jp>  Wed, 30 Apr 2025 16:00:00 -0000
+
+ros-humble-autoware-planning-topic-converter (1.0.0-0jammy) jammy; urgency=high
+
+  * chore: update version in package.xml
+  * feat: port autoware_planning_topic_converter from Autoware Universe to Core (#331 <https://github.com/autowarefoundation/autoware_core/issues/331>)
+  * Contributors: Ryohsuke Mitsudome
+
+ -- Satoshi OTA <satoshi.ota@tier4.jp>  Sun, 30 Mar 2025 16:00:00 -0000
+
+

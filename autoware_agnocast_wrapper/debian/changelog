@@ -1,0 +1,10 @@
+ros-humble-autoware-agnocast-wrapper (0.45.0-0jammy) jammy; urgency=high
+
+  * Merge remote-tracking branch 'origin/main' into tmp/notbot/bump_version_base
+  * chore: re-introduce agnocast and fix version to v2.1.0 (#10526 <https://github.com/autowarefoundation/autoware_universe/issues/10526>)
+    delete colcon ignore and fix agnocast version to v2.1.0
+  * Contributors: TaikiYamada4, Takahiro Ishikawa-Aso
+
+ -- Takahiro Ishikawa-Aso <sykwer@gmail.com>  Wed, 21 May 2025 16:00:00 -0000
+
+

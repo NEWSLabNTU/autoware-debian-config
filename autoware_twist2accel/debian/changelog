@@ -1,0 +1,26 @@
+ros-humble-autoware-twist2accel (1.2.0-0jammy) jammy; urgency=high
+
+  * fix: tf2 uses hpp headers in rolling (and is backported) (#483 <https://github.com/autowarefoundation/autoware_core/issues/483>)
+    * tf2 uses hpp headers in rolling (and is backported)
+    * fixup! tf2 uses hpp headers in rolling (and is backported)
+    ---------
+  * chore: bump up version to 1.1.0 (#462 <https://github.com/autowarefoundation/autoware_core/issues/462>) (#464 <https://github.com/autowarefoundation/autoware_core/issues/464>)
+  * Contributors: Tim Clephas, Yutaka Kondo
+
+ -- Yamato Ando <yamato.ando@tier4.jp>  Sun, 08 Jun 2025 16:00:00 -0000
+
+ros-humble-autoware-twist2accel (1.1.0-0jammy) jammy; urgency=high
+
+
+
+ -- Yamato Ando <yamato.ando@tier4.jp>  Wed, 30 Apr 2025 16:00:00 -0000
+
+ros-humble-autoware-twist2accel (1.0.0-0jammy) jammy; urgency=high
+
+  * chore: update version in package.xml
+  * feat(autoware_twist2accel): port autoware_twist2accel from Autoware Universe (#302 <https://github.com/autowarefoundation/autoware_core/issues/302>)
+  * Contributors: Ryohsuke Mitsudome
+
+ -- Yamato Ando <yamato.ando@tier4.jp>  Sun, 30 Mar 2025 16:00:00 -0000
+
+

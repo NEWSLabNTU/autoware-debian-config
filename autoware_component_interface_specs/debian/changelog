@@ -1,0 +1,34 @@
+ros-humble-autoware-component-interface-specs (1.2.0-0jammy) jammy; urgency=high
+
+  * chore: bump up version to 1.1.0 (#462 <https://github.com/autowarefoundation/autoware_core/issues/462>) (#464 <https://github.com/autowarefoundation/autoware_core/issues/464>)
+  * feat(component_interface_specs): use template type in get_qos function (#364 <https://github.com/autowarefoundation/autoware_core/issues/364>)
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+  * docs(autoware_component_interface_specs): fix README.md (#363 <https://github.com/autowarefoundation/autoware_core/issues/363>)
+  * Contributors: Takagi, Isamu, Yutaka Kondo
+
+ -- Takagi, Isamu <isamu.takagi@tier4.jp>  Sun, 08 Jun 2025 16:00:00 -0000
+
+ros-humble-autoware-component-interface-specs (1.1.0-0jammy) jammy; urgency=high
+
+  * feat(component_interface_specs): use template type in get_qos function (#364 <https://github.com/autowarefoundation/autoware_core/issues/364>)
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+  * docs(autoware_component_interface_specs): fix README.md (#363 <https://github.com/autowarefoundation/autoware_core/issues/363>)
+  * Contributors: Takagi, Isamu, Yutaka Kondo
+
+ -- Takagi, Isamu <isamu.takagi@tier4.jp>  Wed, 30 Apr 2025 16:00:00 -0000
+
+ros-humble-autoware-component-interface-specs (1.0.0-0jammy) jammy; urgency=high
+
+
+
+ -- Takagi, Isamu <isamu.takagi@tier4.jp>  Sun, 30 Mar 2025 16:00:00 -0000
+
+ros-humble-autoware-component-interface-specs (0.3.0-0jammy) jammy; urgency=high
+
+  * chore: fix versions in package.xml
+  * feat: add autoware_core_component_interface_specs package (#124 <https://github.com/autowarefoundation/autoware.core/issues/124>)
+  * Contributors: Ryohsuke Mitsudome, mitsudome-r
+
+ -- Takagi, Isamu <isamu.takagi@tier4.jp>  Thu, 20 Mar 2025 16:00:00 -0000
+
+

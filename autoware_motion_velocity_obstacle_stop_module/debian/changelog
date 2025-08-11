@@ -1,0 +1,56 @@
+ros-humble-autoware-motion-velocity-obstacle-stop-module (1.2.0-0jammy) jammy; urgency=high
+
+  * fix(autoware_motion_velocity_obstacle_stop_module): fix for mishandling lateral-distance (#452 <https://github.com/autowarefoundation/autoware_core/issues/452>)
+    * Fix for mishandling lateral-distance
+    * fix
+    * style(pre-commit): autofix
+    * fix
+    * fix
+    * fix
+    * style(pre-commit): autofix
+    * fix
+    * style(pre-commit): autofix
+    * Update planning/motion_velocity_planner/autoware_motion_velocity_planner_common/src/utils.cpp
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+    ---------
+    Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+  * fix(autoware_motion_velocity_obstacle_stop_module): fix deprecated autoware_utils header (#443 <https://github.com/autowarefoundation/autoware_core/issues/443>)
+    * fix autoware_utils header
+    * style(pre-commit): autofix
+    ---------
+    Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+  * chore: bump up version to 1.1.0 (#462 <https://github.com/autowarefoundation/autoware_core/issues/462>) (#464 <https://github.com/autowarefoundation/autoware_core/issues/464>)
+  * feat(autoware_motion_velocity_planner): point-cloud clustering optimization (#409 <https://github.com/autowarefoundation/autoware_core/issues/409>)
+    * Core changes for point-cloud maksing and clustering
+    * fix
+    * style(pre-commit): autofix
+    * Update planning/motion_velocity_planner/autoware_motion_velocity_planner_common/include/autoware/motion_velocity_planner_common/planner_data.hpp
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+    * fix
+    ---------
+    Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+    Co-authored-by: Yutaka Kondo <mailto:yutaka.kondo@youtalk.jp>
+  * Contributors: Arjun Jagdish Ram, Masaki Baba, Yutaka Kondo
+
+ -- Takayuki Murooka <takayuki.murooka@tier4.jp>  Sun, 08 Jun 2025 16:00:00 -0000
+
+ros-humble-autoware-motion-velocity-obstacle-stop-module (1.1.0-0jammy) jammy; urgency=high
+
+
+
+ -- Takayuki Murooka <takayuki.murooka@tier4.jp>  Wed, 30 Apr 2025 16:00:00 -0000
+
+ros-humble-autoware-motion-velocity-obstacle-stop-module (1.0.0-0jammy) jammy; urgency=high
+
+  * chore: update version in package.xml
+  * fix(motion_velocity_obstacle_stop_module): fix debug topic name (#341 <https://github.com/autowarefoundation/autoware_core/issues/341>)
+    fix(motion_velocity_obstacle_xxx_module): fix debug topic name
+  * fix(autoware_motion_velocity_obstacle_stop_module): fix plugin export (#333 <https://github.com/autowarefoundation/autoware_core/issues/333>)
+  * feat(autoware_motion_velocity_obstacle_stop_module): port to core repo (#310 <https://github.com/autowarefoundation/autoware_core/issues/310>)
+  * Contributors: Ryohsuke Mitsudome, Takayuki Murooka, 心刚
+
+ -- Takayuki Murooka <takayuki.murooka@tier4.jp>  Sun, 30 Mar 2025 16:00:00 -0000
+
+

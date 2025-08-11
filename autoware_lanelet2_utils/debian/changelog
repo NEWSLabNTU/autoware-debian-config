@@ -1,0 +1,81 @@
+ros-humble-autoware-lanelet2-utils (1.2.0-0jammy) jammy; urgency=high
+
+  * feat(autoware_lanelet2_utils): refactor interpolation and extrapolation for lanelet2 points and line (#373 <https://github.com/autowarefoundation/autoware_core/issues/373>)
+    * task 1
+    * style(pre-commit): autofix
+    * completed all task, change all function to reutn optional point
+    * Added getLineStringFromArcLength and get_pose_from_2d_arc_length
+    * remove unnecessary functions
+    * fixed some review
+    * temp
+    * fix conflict
+    * review fix
+    * style(pre-commit): autofix
+    * fixed unused function in header
+    * fixed review and cleaned up unnecessary variable
+    ---------
+    Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+  * feat(autoware_lanelet2_utils): refactor stop line retrieval functions into lanelet2_utils (#327 <https://github.com/autowarefoundation/autoware_core/issues/327>)
+    Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+    Co-authored-by: Mamoru Sobue <mailto:hilo.soblin@gmail.com>
+  * chore: bump up version to 1.1.0 (#462 <https://github.com/autowarefoundation/autoware_core/issues/462>) (#464 <https://github.com/autowarefoundation/autoware_core/issues/464>)
+  * feat: add dense centerline map (#399 <https://github.com/autowarefoundation/autoware_core/issues/399>)
+    * Add map of　dense centerline
+    * style(pre-commit): autofix
+    * Correction of README.md
+    * style(pre-commit): autofix
+    ---------
+    Co-authored-by: pre-commit-ci[bot] <66853113+pre-commit-ci[bot]@users.noreply.github.com>
+  * refactor(autoware_lanelet2_utils)!: move everything to namespace experimental (#372 <https://github.com/autowarefoundation/autoware_core/issues/372>)
+  * refactor(autoware_lanelet2_utils): rewrite using modern C++ without API breakage (#347 <https://github.com/autowarefoundation/autoware_core/issues/347>)
+    * refactor using modern c++
+    * precommit
+    * fix
+    * fix
+    * precommit
+    * use std::strcmp
+    * precommit
+    * Revert "refactor using modern c++"
+    This reverts commit 3f7e4953c08f5237dc3bc75db3d896cc9c0640a3.
+    ---------
+  * Contributors: Giovanni Muhammad Raditya, Mamoru Sobue, Yutaka Kondo, yukage-oya
+
+ -- Mamoru Sobue <mamoru.sobue@tier4.jp>  Sun, 08 Jun 2025 16:00:00 -0000
+
+ros-humble-autoware-lanelet2-utils (1.1.0-0jammy) jammy; urgency=high
+
+  * refactor(autoware_lanelet2_utils)!: move everything to namespace experimental (#372 <https://github.com/autowarefoundation/autoware_core/issues/372>)
+  * refactor(autoware_lanelet2_utils): rewrite using modern C++ without API breakage (#347 <https://github.com/autowarefoundation/autoware_core/issues/347>)
+    * refactor using modern c++
+    * precommit
+    * fix
+    * fix
+    * precommit
+    * use std::strcmp
+    * precommit
+    * Revert "refactor using modern c++"
+    This reverts commit 3f7e4953c08f5237dc3bc75db3d896cc9c0640a3.
+    ---------
+  * Contributors: Mamoru Sobue, Yutaka Kondo
+
+ -- Mamoru Sobue <mamoru.sobue@tier4.jp>  Wed, 30 Apr 2025 16:00:00 -0000
+
+ros-humble-autoware-lanelet2-utils (1.0.0-0jammy) jammy; urgency=high
+
+
+
+ -- Mamoru Sobue <mamoru.sobue@tier4.jp>  Sun, 30 Mar 2025 16:00:00 -0000
+
+ros-humble-autoware-lanelet2-utils (0.3.0-0jammy) jammy; urgency=high
+
+  * chore: fix versions in package.xml
+  * chore(lanelet2_utils): change header directory structure (#274 <https://github.com/autowarefoundation/autoware.core/issues/274>)
+  * feat(lanelet2_utility): add intersection/turn_direction definition (#244 <https://github.com/autowarefoundation/autoware.core/issues/244>)
+  * docs(lanelet2_utils): fix invalid drawio link and update image (#251 <https://github.com/autowarefoundation/autoware.core/issues/251>)
+    doc(lanelet2_utils): fix invalid drawio link and update image
+  * feat(lanelet2_utils)!: introduce lanelet2_utils by renaming from laneet2_utility (#248 <https://github.com/autowarefoundation/autoware.core/issues/248>)
+  * Contributors: Mamoru Sobue, mitsudome-r
+
+ -- Mamoru Sobue <mamoru.sobue@tier4.jp>  Thu, 20 Mar 2025 16:00:00 -0000
+
+
